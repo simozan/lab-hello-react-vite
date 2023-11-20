@@ -1,0 +1,25 @@
+.btn {
+    background-color: white;
+    color: #213547;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main {
+    background-color: #213547;
+    padding: 30px;
+
+}
+
+.title {
+    width: 50vw;
+    color: white;
+    font-size: 140px;
+}
+
+.text {
+    color: white;
+    width: 50vw;
+    font-size: 30px;
+}
