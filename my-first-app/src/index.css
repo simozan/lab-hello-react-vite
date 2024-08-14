@@ -1,6 +1,10 @@
 body {
-  margin: 0;
- box-sizing: border-box;
- background-color: #213547;;
- padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: #213547;
+  padding: 0px;
+}
+
+*{
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
 }

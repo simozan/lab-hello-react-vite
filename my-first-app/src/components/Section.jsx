@@ -19,8 +19,8 @@ function Section () {
             </div>
             <div>
             <img src="./src/assets/icon4.png"/>
-            <h1>Single-Way</h1>
-            <p>A set of immutable values are passed to the component's</p>
+            <h1>JSX</h1>
+            <p>Statically-typed, designed to run on modern browser</p>
             </div>
         </section>
     )
